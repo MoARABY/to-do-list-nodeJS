@@ -23,7 +23,7 @@ Separation of concerns using controllers, models, and routes
 <ul>
   <li> >Clone the repository:</li>
   <li> >> bash</li>
-  <li> >> git clone https://github.com/your-username/contact-management-backend.git</li>
+  <li> >> git clone https://github.com/your-username/to-do-list-nodeJS.git</li>
 </ul>
 
 Install dependencies:
@@ -39,7 +39,6 @@ Install dependencies:
   <li> >> makefile</li>
   <li> >> PORT=3000</li>
   <li> >> MONGODB_URI=your-mongodb-connection-string</li>
-  <li> >> JWT_SECRET=your-jwt-secret</li>
 </ul>
 Configure environment variables:
 <ul>
